@@ -113,6 +113,10 @@ IDC 主机官网: https://whmcs.as211392.com （该 IDC 提供的机器主要面
 
 > **声明**: QiuChenly 与任何人均无任何形式的经济往来，所有致谢、介绍均出于感谢，没有任何盈利目的。
 
+特别致谢：开发过程中使用了Krill的GPT 5.6/6 服务。
+GPT-6-Astra 已经上线！这几天用之前推荐过的 www.krill-code.com 的中转，高强度跑项目实测GPT：完全不降智，首字延迟极低。Agent 开发或跑并发 coding 的同学可以试试。
+如果你有需要，可以从我的注册链接注册账号，还可以使用我的一次性付款折扣码：结账优惠码：Qiuchenly，我的邀请注册链接为 https://www.krill-ai.com/register?invite=OX4YH8WLYM 。
+
 ---
 
 # 项目存在的目的
